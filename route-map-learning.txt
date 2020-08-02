@@ -1,1 +1,3 @@
+- agustus 2020
+	- belajar git dan github
 
