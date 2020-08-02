@@ -1,1 +1,7 @@
-ini file baru
+script untuk remote github dengan git
+- git clone linkgityangakandiremote
+- git remote add (namaremote) linkgithubyangakandiremote
+- git remote -v //untuk cek git yang diremote
+- git remote rename [nama-remote-sebelumnya] [nama-remote-yang-baru] 
+- git remote // untuk cek list remote
+- git push [namaremote] [nama branch]
