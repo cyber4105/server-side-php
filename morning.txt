@@ -1,3 +1,5 @@
 pag-pagi harus tetap belajar
 sya menambahkan dari github
 apakah pake git pull saja bisa menapatkan file update terbaru nya?
+
+ternyata bisa git pull saja 
