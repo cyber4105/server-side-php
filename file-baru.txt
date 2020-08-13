@@ -5,3 +5,13 @@ script untuk remote github dengan git
 - git remote rename [nama-remote-sebelumnya] [nama-remote-yang-baru] 
 - git remote // untuk cek list remote
 - git push [namaremote] [nama branch]
+
+
+-- deleted localbranch and remotely --
+  <localbranch>
+  - git branch -D namabranch (forcedelete)
+  - git branch -d namabranch (delete if branch already merge)
+  
+  <remotely>
+  - git branch remotename --delete branchname (delete if branch already merge)
+  - git branch remotename --delete --force branchname
